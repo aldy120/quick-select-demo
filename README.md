@@ -1,2 +1,2 @@
 # Quick Select algorithm
-Demostration for find median in time complexity O(n).
+Demostration for finding median in time complexity O(n).
